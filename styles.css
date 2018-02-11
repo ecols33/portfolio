@@ -116,7 +116,7 @@ ul.dashed > li:before {
     text-indent: -5px;
 }
 
-#test {
+#fade {
     -webkit-animation: fadein 2.5s;
     /* Safari, Chrome and Opera > 12.1 */
     -moz-animation: fadein 2.5s;
